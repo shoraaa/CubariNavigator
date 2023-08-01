@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "ReadOnCubari",
+    "version": "1.0",
+    
+    "permissions": ["contextMenus"],
+    "host_permissions": [
+        "https://api.mangadex.org/*"
+    ],
+    "background": { 
+        "service_worker": "background.js"
+    }
+}
