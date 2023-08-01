@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "ReadOnCubari",
+    "name": "CubariNavigator",
     "version": "1.0",
     
     "permissions": ["contextMenus"],
